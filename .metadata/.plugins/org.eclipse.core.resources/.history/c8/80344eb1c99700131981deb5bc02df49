@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
+<<<<<<< HEAD
     android:layout_gravity="center"
     android:background="@color/tlo"
     android:orientation="vertical"
@@ -35,6 +36,31 @@
 
     <Button
         android:id="@+id/przycisk_wyjscie"
+=======
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tytul" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etykieta_nowa_gra" />
+    
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/opis" />
+    
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/autor" />
+    
+    <Button
+>>>>>>> 98bf5fb74c3c197003ff9ba8d144c4507f0d8d8f
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/wyjscie" />
