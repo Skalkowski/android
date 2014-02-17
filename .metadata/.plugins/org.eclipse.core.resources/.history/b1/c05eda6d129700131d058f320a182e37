@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/tlo"
+    android:padding="30dip"
+    android:orientation="vertical" >
+
+  
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="45dip"
+            android:textSize="24.5sp"
+            android:text="@string/tytul" />
+
+        <Button
+            android:id="@+id/przycisk_nowa_gra"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/etykieta_nowa_gra" />
+
+        <Button
+            android:id="@+id/przycisk_opis"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/opis" />
+
+        <Button
+            android:id="@+id/przycisk_autor"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/autor" />
+
+        <Button
+            android:id="@+id/przycisk_wyjscie"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/wyjscie" />
+   
+
+</LinearLayout>

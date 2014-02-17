@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="tytul">Menu</string>
+    <string name="etykieta_nowa_gra">Nowa gra</string>
+    <string name="opis">Opis</string>
+    <string name="autor">Autor</string>
+    <string name="wyjscie">Wyjscie</string>
+    <string name="tytul_autor">Autor:</string>
+    <string name="informacje_autor">YourMotherXD <br/>
+        Michał Skałkowski
+        Sopot</string>
+
+</resources>
